@@ -1,0 +1,254 @@
+PLOT REPORT
+-----------
+
+Report File:        C:\Users\Clay\Documents\OpenMaze\OM PCBs\OM124rfid_082916e (PCB - PLOT REPORT).txt
+Report Written:     Tuesday, August 30, 2016
+Design Path:        C:\Users\Clay\Documents\OpenMaze\OM PCBs\OM124rfid_082916e.pcb
+Design Title:       
+Created:            8/21/2016 11:23:11 PM
+Last Saved:         8/30/2016 1:23:42 AM
+Editing Time:       5287 min
+Units:              thou (precision 0)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 3.5 absolute in inches.
+    No zero suppression.
+
+
+Plots Output
+============
+
+
+Gerber Output
+=============
+
+C:\Users\Clay\Documents\OpenMaze\OM PCBs\OM124rfid_082916e - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 12.00
+    D11    Round 5.00
+    D12    Round 10.00
+    D13    Round 8.80
+    D14    Round 6.72
+    D15    Round 6.00
+    D16    Round 8.00
+    D17    Round 4.80
+    D18    Round 1.00
+    D76    Round 9.00
+
+Gerber Output
+=============
+
+C:\Users\Clay\Documents\OpenMaze\OM PCBs\OM124rfid_082916e - Top Copper.gbr
+
+    Layers:
+    ------------------
+    Top Copper
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------------------------
+    D11    Round 5.00
+    D12    Round 10.00
+    D16    Round 8.00
+    D19    Round 56.00
+    D70    Round 60.00
+    D71    Round 32.00
+    D20    Oval 57.46 X 71.83
+    D21    Octagon 66.00
+    D22    Oval 60.00 X 90.00
+    D23    Oval 57.40 X 86.10
+    D24    Round 15.00
+    D77    Round 70.00
+    D78    Round 60.00
+    D79    Square 60.00
+    D80    Oval 60.00 X 90.00  Rotation 90
+    D81    Round 74.00
+
+Gerber Output
+=============
+
+C:\Users\Clay\Documents\OpenMaze\OM PCBs\OM124rfid_082916e - Top Copper (Resist).gbr
+
+    Layers:
+    ------------------
+    Top Copper
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------------------------
+    D11    Round 5.00
+    D19    Round 56.00
+    D70    Round 60.00
+    D71    Round 32.00
+    D20    Oval 57.46 X 71.83
+    D21    Octagon 66.00
+    D22    Oval 60.00 X 90.00
+    D23    Oval 57.40 X 86.10
+    D77    Round 70.00
+    D78    Round 60.00
+    D79    Square 60.00
+    D80    Oval 60.00 X 90.00  Rotation 90
+    D81    Round 74.00
+
+Gerber Output
+=============
+
+C:\Users\Clay\Documents\OpenMaze\OM PCBs\OM124rfid_082916e - Bottom Copper.gbr
+
+    Layers:
+    ------------------
+    Bottom Copper
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------------------------
+    D11    Round 5.00
+    D12    Round 10.00
+    D16    Round 8.00
+    D19    Round 56.00
+    D70    Round 60.00
+    D71    Round 32.00
+    D20    Oval 57.46 X 71.83
+    D21    Octagon 66.00
+    D22    Oval 60.00 X 90.00
+    D23    Oval 57.40 X 86.10
+    D24    Round 15.00
+    D74    Round 40.00
+    D77    Round 70.00
+    D78    Round 60.00
+    D79    Square 60.00
+    D80    Oval 60.00 X 90.00  Rotation 90
+    D81    Round 74.00
+    D82    Round 16.00
+
+Gerber Output
+=============
+
+C:\Users\Clay\Documents\OpenMaze\OM PCBs\OM124rfid_082916e - Bottom Copper (Resist).gbr
+
+    Layers:
+    ------------------
+    Bottom Copper
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------------------------
+    D11    Round 5.00
+    D19    Round 56.00
+    D70    Round 60.00
+    D71    Round 32.00
+    D20    Oval 57.46 X 71.83
+    D21    Octagon 66.00
+    D22    Oval 60.00 X 90.00
+    D23    Oval 57.40 X 86.10
+    D77    Round 70.00
+    D78    Round 60.00
+    D79    Square 60.00
+    D80    Oval 60.00 X 90.00  Rotation 90
+    D81    Round 74.00
+
+Gerber Output
+=============
+
+C:\Users\Clay\Documents\OpenMaze\OM PCBs\OM124rfid_082916e - Bottom Silkscreen.gbr
+
+    Layers:
+    ---------------------
+    Bottom Silkscreen
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D11    Round 5.00
+    D15    Round 6.00
+    D83    Round 7.50
+    D84    Round 4.50
+
+NC Drill Output
+===============
+
+C:\Users\Clay\Documents\OpenMaze\OM PCBs\OM124rfid_082916e - Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+    Unplated Board Outlines
+
+    Tool  Size         Count   ID  (Plated/Unplated)
+    ---------------------------------------------------------
+    T001  000.01600 in 6     D
+    T002  000.02500 in 1
+    T003  000.03100 in 22    I
+    T004  000.03150 in 11    J
+    T005  000.03200 in 653   A
+    T006  000.03346 in 100   E
+    T007  000.03500 in 154   C
+    T008  000.03700 in 39    B
+    T009  000.03740 in 140   F
+    T010  000.04000 in 46    G
+    T011  000.04500 in 9     H
+    ---------------------------------------------------------
+    Total              1181
+    ---------------------------------------------------------
+
+
+Gerber Output
+=============
+
+C:\Users\Clay\Documents\OpenMaze\OM PCBs\OM124rfid_082916e - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+    Board Outlines
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    32    Y      100  Round A
+    37    Y      100  Round B
+    35    Y      100  Round C
+    16    Y      100  Round D
+    33    Y      100  Round E
+    37    Y      100  Round F
+    40    Y      100  Round G
+    45    Y      100  Round H
+    31    Y      100  Round I
+    31    Y      100  Round J
+
+    D-Code Shape  (thou)
+    -----------------------
+    D11    Round 5.00
+    D75    Round 100.00
+
+End Of Report.
